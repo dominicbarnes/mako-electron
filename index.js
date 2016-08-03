@@ -3,9 +3,10 @@
 
 const buffer = require('mako-buffer');
 const copy = require('mako-copy');
-const stat = require('mako-stat');
+const css = require('mako-css');
 const html = require('mako-html');
 const output = require('mako-output');
+const stat = require('mako-stat');
 const write = require('mako-write');
 
 
