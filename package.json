@@ -1,0 +1,14 @@
+{
+  "name": "@dominicbarnes/mako-electron",
+  "version": "0.0.0",
+  "description": "My personal mako plugin bundle for working on electron apps",
+  "dependencies": {
+    "mako-buffer": "^0.11.5",
+    "mako-copy": "^0.12.4",
+    "mako-css": "^0.16.9",
+    "mako-html": "^0.1.1",
+    "mako-output": "^0.11.4",
+    "mako-stat": "^0.11.5",
+    "mako-write": "^0.10.4"
+  }
+}
