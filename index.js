@@ -16,7 +16,7 @@ module.exports = function () {
     mako.use(buffer([ 'html', 'js', 'json', 'css' ]));
     mako.use(html());
     mako.use(css({ sourceMaps: true }));
-    mako.use(output());
+    mako.use(output([ 'html', 'js', 'json', 'css', css.images, css.fonts ]));
     mako.use(write([ 'html', 'js', 'json', 'css' ]));
     mako.use(copy([ css.images, css.fonts ]));
   };
