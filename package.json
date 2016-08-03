@@ -10,5 +10,8 @@
     "mako-output": "^0.11.4",
     "mako-stat": "^0.11.5",
     "mako-write": "^0.10.4"
+  },
+  "scripts": {
+    "test": "node index.js"
   }
 }
