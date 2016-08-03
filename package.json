@@ -1,6 +1,6 @@
 {
   "name": "@dominicbarnes/mako-electron",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "My personal mako plugin bundle for working on electron apps",
   "dependencies": {
     "mako-buffer": "^0.11.5",
