@@ -1,6 +1,6 @@
 {
   "name": "@dominicbarnes/mako-electron",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "My personal mako plugin bundle for working on electron apps",
   "peerDependencies": {
     "mako": "^1.0.0"
